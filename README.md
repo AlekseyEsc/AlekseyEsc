@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlekseyEsc
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+
 
 
 <!---
